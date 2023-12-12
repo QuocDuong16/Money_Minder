@@ -113,12 +113,6 @@ dependencies {
     // Jetpack Compose Integration
     implementation("androidx.navigation:navigation-compose:$nav_version")
 
-    implementation("org.tensorflow:tensorflow-lite:2.11.0")  // hoặc phiên bản mới nhất
-//    runtimeOnly("org.tensorflow:tensorflow-lite-support:0.4.4")
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.2.2")
-    // https://mvnrepository.com/artifact/org.tensorflow/tensorflow-lite-support
-    runtimeOnly("org.tensorflow:tensorflow-lite-support:0.4.4")
-    implementation("org.tensorflow:tensorflow-lite-support:0.1.0-rc1")
     implementation("androidx.compose.ui:ui:1.0.5")
     implementation("androidx.activity:activity-compose:1.3.1")
     implementation("androidx.compose.foundation:foundation:1.0.5")
