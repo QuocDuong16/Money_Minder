@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Money Minder</string>
+    <string name="bottom_navigation_home">Trang chủ</string>
+    <string name="bottom_navigation_profile">Hồ sơ</string>
+    <string name="bottom_navigation_transactions">Giao dịch</string>
+    <string name="bottom_navigation_budgets">Ngân sách</string>
+</resources>
